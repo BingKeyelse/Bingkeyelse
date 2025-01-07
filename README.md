@@ -1,7 +1,7 @@
 ### Hello Friend 👋👋👋
 My name is Viet Hung. I studied automation at HCMC University of Technology and Education. I am interested in the following topics: Deep Learning in NLP, Computer Vision, Electronic Components and PLC.<br>
 ## 📫 How to reach me: 
-[![FB](fb_icon.png)](https://www.facebook.com/hoang.viethung.7771/)  [![GitHub](github_icon.png)](https://github.com/vietnh1009/)
+[![FB](fb_icon.png)](https://www.facebook.com/hoang.viethung.7771/)  [![GitHub](github_icon.png)](https://github.com/BingKeyelse/)
 
 ![My github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BingKeyelse&show_icons=true&theme=tokyonight&hide=contribs,prs,issues&show=reviews)
 
