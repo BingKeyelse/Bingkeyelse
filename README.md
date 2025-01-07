@@ -12,21 +12,21 @@ My name is Viet Hung. I studied automation at HCMC University of Technology and 
 
 <a href="https://github.com/BingKeyelse/Sort_blister_HN/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BingKeyelse&repo=Sort_blister_HN&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BingKeyelse&repo=Sort_blister_HN&theme=cobalt&cache_seconds=60" />
 </a>  
 
 <a href="https://github.com/BingKeyelse/Gui_robot/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BingKeyelse&repo=Gui_robot&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BingKeyelse&repo=Gui_robot&theme=cobalt&cache_seconds=60" />
 </a>  
 
 <a href="https://github.com/BingKeyelse/Arduino_run_PID_Fuzzy/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BingKeyelse&repo=Arduino_run_PID_Fuzzy&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BingKeyelse&repo=Arduino_run_PID_Fuzzy&theme=cobalt&cache_seconds=60" />
 </a>  
 
 <a href="https://github.com/BingKeyelse/Count_object_with_OBB/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BingKeyelse&repo=Count_object_with_OBB&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BingKeyelse&repo=Count_object_with_OBB&theme=cobalt&cache_seconds=60" />
 </a>  
 
