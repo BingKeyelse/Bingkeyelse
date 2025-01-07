@@ -30,3 +30,6 @@ My name is Viet Hung. I studied automation at HCMC University of Technology and 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BingKeyelse&repo=Count_object_with_OBB&theme=cobalt&cache_seconds=60" />
 </a>  
 
+[Kham khảo ở đây](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file)
+[Web](https://github-profile-maker.vercel.app/)
+
