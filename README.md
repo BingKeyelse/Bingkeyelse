@@ -12,27 +12,28 @@ My name is Viet Hung. I studied automation at HCMC University of Technology and 
 
 <a href="https://github.com/BingKeyelse/Sort_blister_HN/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BingKeyelse&repo=Sort_blister_HN&theme=cobalt&cache_seconds=60" />
-</a>  
-
-<a href="https://github.com/BingKeyelse/Gui_robot/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BingKeyelse&repo=Gui_robot&theme=cobalt&cache_seconds=60" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BingKeyelse&repo=Sort_blister_HN&theme=cobalt&cache_seconds=10" />
 </a>  
 
 <a href="https://github.com/BingKeyelse/Arduino_run_PID_Fuzzy/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BingKeyelse&repo=Arduino_run_PID_Fuzzy&theme=cobalt&cache_seconds=60" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BingKeyelse&repo=Arduino_run_PID_Fuzzy&theme=cobalt&cache_seconds=10" />
+</a>  
+
+
+<a href="https://github.com/BingKeyelse/Gui_robot/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BingKeyelse&repo=Gui_robot&theme=cobalt&cache_seconds=10" />
 </a>  
 
 <a href="https://github.com/BingKeyelse/Project-Count-object-with-OBB/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BingKeyelse&repo=Project-Count-object-with-OBB&theme=cobalt&cache_seconds=60" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BingKeyelse&repo=Project-Count-object-with-OBB&theme=cobalt&cache_seconds=10" />
 </a>  
 
 <a href="https://github.com/BingKeyelse/Train-with-mutil-labels-segmentation/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BingKeyelse&repo=Train-with-mutil-labels-segmentation&theme=cobalt&cache_seconds=60" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BingKeyelse&repo=Train-with-mutil-labels-segmentation&theme=cobalt&cache_seconds=10" />
 </a>  
 
 [Kham khảo ở đây](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file)
