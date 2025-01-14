@@ -12,8 +12,7 @@ My name is Viet Hung. I studied automation at HCMC University of Technology and 
 
 <a href="https://github.com/BingKeyelse/Project-Sort-blister_HN/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BingKeyelse&repo=Project-Sort-blister_HN
-&theme=cobalt&cache_seconds=10" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BingKeyelse&repo=Project-Sort-blister_HN&theme=cobalt&cache_seconds=10" />
 </a>  
 
 <a href="https://github.com/BingKeyelse/Arduino_run_PID_Fuzzy/">
