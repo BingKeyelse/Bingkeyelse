@@ -40,6 +40,13 @@ My name is Viet Hung. I studied automation at HCMC University of Technology and 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BingKeyelse&repo=Tool-matching-objection&theme=cobalt&cache_seconds=10" />
 </a>  
 
+<a href="https://github.com/BingKeyelse/Duy-Nguyen-Project/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BingKeyelse&repo=Duy-Nguyen-Project&theme=cobalt&cache_seconds=10" />
+</a>  
+
+
+
 [Kham khảo ở đây](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file)
 [Web](https://github-profile-maker.vercel.app/)
 
