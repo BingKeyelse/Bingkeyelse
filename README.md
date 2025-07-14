@@ -1,7 +1,10 @@
 ### Hello Friend 👋👋👋
-My name is Viet Hung. I studied **Technbology and Automation** at HCMC University of Technology and Education. I am interested in the following topics: Deep Learning in NLP, Computer Vision, Electronic Components and PLC. There are many solutions with computer vision in industry and are conquering LLM<br>
+My name is Viet Hung. I studied **Technology and Automation** at **HCMC University of Technology and Education**. I am interested in the following topics: Deep Learning in NLP, Computer Vision, Electronic Components and PLC. There are many solutions with computer vision in industry and are conquering LLM<br>
 ## 📫 How to reach me: 
 [![FB](fb_icon.png)](https://www.facebook.com/hoang.viethung.7771/)  [![GitHub](github_icon.png)](https://github.com/BingKeyelse/)
+
+- 📩 My gmail: **viethung18102000@gmail.com**
+
 <!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bingkeyelse&label=Profile%20views&color=0e75b6&style=flat" alt="Bingkeyelse" /> </p> -->
 
